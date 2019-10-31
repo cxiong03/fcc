@@ -18,3 +18,5 @@ function repeatStringNumTimes(str, num) {
     }
     return accumulatedStr;
   }
+
+  console.log(repeatStringNumTimes("Chang", 5));
