@@ -7,6 +7,6 @@ function sumAll(arr) {
     }
     return temp;
   }
-  
+
   sumAll([1, 4]);
   
